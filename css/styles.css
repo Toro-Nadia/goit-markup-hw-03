@@ -100,9 +100,9 @@ font-style: normal;
 background-color:#2e2f42;
 padding: 188px 0;
 }
-.div-container-one {
+.container {
 }
-.container {}
+.container-one {}
 
 
 
@@ -141,9 +141,9 @@ padding: 188px 0;
 .section-ben{
     padding: 120px 0;
 }
-.container-sec-two {
-}
+
 .container {}
+.container-sec-two{}
 
 .visually-hidden{
     position: absolute;
