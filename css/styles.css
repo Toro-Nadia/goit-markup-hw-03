@@ -64,7 +64,7 @@ menu{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    padding: 24px 0
+    padding: 24px 0;
 }
 .nav-link:hover,
 .nav-link:focus{
@@ -73,8 +73,11 @@ menu{
 
 .address {
 font-style: normal;
-display: flex;
-gap: 40px
+}
+
+address-head {
+    display: flex;
+    gap: 40px
 }
 
 .address-link {
