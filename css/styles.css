@@ -163,7 +163,7 @@ padding: 188px 0;
     gap: 24px;
 }
 .li-two {
-    width: calc((100% - 72px) / 4);
+flex-basis:calc((100% - 72px) / 4);
 }
 
 .title-sec {
@@ -172,7 +172,7 @@ padding: 188px 0;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2E2F42
-    margin-bottom 8px;
+    margin-bottom: 8px
 }
 
 .paragraf {
@@ -187,6 +187,7 @@ padding: 188px 0;
     background-color: #F4F4FD;
     padding: 120px 0;
 }
+.container{}
 .container-tree{}
 
 .team-title {
@@ -207,7 +208,7 @@ padding: 188px 0;
 
 .class {
         background-color: #FFFFFF;
-        width: calc((100% - 72px) / 4);
+        flex-basis: calc((100% - 3 * 24px) / 4);
         border-radius: 0px 0px 4px 4px;
 }
 
@@ -227,6 +228,7 @@ padding: 188px 0;
         text-align: center;
         color:#2e2f42;
         text-align: center;
+        margin-bottom: 8px
 }
 
 .paragraf {
@@ -238,6 +240,20 @@ padding: 188px 0;
         color: #434455;
 }
 
+.section-four{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.container{}
+
+.container-four{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
+
 .title-portfolio {
         font-weight: 700;
         font-size: 36px;
@@ -246,7 +262,9 @@ padding: 188px 0;
         text-transform: capitalize;
         text-align: center;
         color: #2e2f42;
+        margin-bottom: 72px;
 }
+.ul-four{}
 
 .class-two {}
 
