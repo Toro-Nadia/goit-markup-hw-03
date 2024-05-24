@@ -102,7 +102,7 @@ padding: 188px 0;
 }
 .div-container-one {
 }
-.container-one {}
+.container {}
 
 
 
@@ -141,9 +141,9 @@ padding: 188px 0;
 .section-ben{
     padding: 120px 0;
 }
-.container-sec-two{
+.container-sec-two {
 }
-.container-two{}
+.container {}
 
 .visually-hidden{
     position: absolute;
@@ -172,7 +172,7 @@ padding: 188px 0;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2E2F42
-    margin-bottom  8px;
+    margin-bottom 8px;
 }
 
 .paragraf {
