@@ -278,7 +278,7 @@ row-gap: 48px;
 
 .images {}
 
-.container {
+.container-list {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
@@ -303,6 +303,7 @@ row-gap: 48px;
 
 .footer {
     background-color:#2e2f42;
+    padding: 100px 0 ;
 }
 
 .footer-logo {
@@ -313,6 +314,8 @@ row-gap: 48px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 
 .footer-logo-w {
@@ -323,4 +326,5 @@ row-gap: 48px;
     line-height: 1.5;
     color:#F4F4FD;
     letter-spacing: 0.02em;
+    max-width: 264px
     }
