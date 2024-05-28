@@ -249,6 +249,7 @@ flex-basis: calc((100%-72px)/4);
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
+        text-align: center; 
 }
 
 .section-four{
