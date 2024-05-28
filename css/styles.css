@@ -320,6 +320,7 @@ row-gap: 48px;
 
 .footer-logo-w {
     color: #f4f4fd;
+    display: inline-block;
 }
 
 .footer-paragraf {
