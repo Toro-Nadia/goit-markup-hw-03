@@ -163,7 +163,7 @@ padding: 188px 0;
     gap: 24px;
 }
 .li-two {
-flex-basis: calc((100% - 72px) / 4);
+flex-basis: calc((100%-72px)/4);
 }
 
 .title-sec {
@@ -208,7 +208,7 @@ flex-basis: calc((100% - 72px) / 4);
 
 .class {
         background-color: #FFFFFF;
-        flex-basis: calc((100% - 3 * 24px) / 4);
+        flex-basis: calc((100%-3*24px)/4);
         border-radius: 0px 0px 4px 4px;
 }
 
@@ -272,7 +272,7 @@ row-gap: 48px;
 }
 
 .class-two {
-    width: calc((100% - 48px) / 3);
+    width: calc((100%-48px)/3);
 
 }
 
@@ -320,8 +320,7 @@ row-gap: 48px;
 
 .footer-logo-w {
     color: #f4f4fd;
-    display: inline-block;
-}
+    }
 
 .footer-paragraf {
     line-height: 1.5;
